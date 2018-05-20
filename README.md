@@ -1,0 +1,2 @@
+# FXManager
+FX Operation Management
